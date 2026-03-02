@@ -8,7 +8,6 @@
 ---
 
 ## 📱 Screenshots
-> *نصيحة: قم برفع صور تطبيقك في مجلد باسم `screenshots` واستبدل المسارات أدناه.*
 
 | Main Dashboard | Transactions History | Cloud Backup |
 |---|---|---|
