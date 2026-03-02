@@ -12,7 +12,8 @@
 
 | Main Dashboard | Transactions History | Cloud Backup |
 |---|---|---|
-| ![Home](screenshots/home.png) | ![History](screenshots/history.png) | ![Backup](screenshots/backup.png) | ![category](screenshots/category.png)
+| ![Home](home.png) | ![History](history.png) | ![advice](advice.png) | ![category](category.png)
+| ![pdf](pdf/category.
 
 ---
 
